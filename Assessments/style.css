@@ -12,3 +12,7 @@ h1,h2,h3 {
 .contents a:link, .contents a:visited {
 	color: #30b5b8;
 }
+hr {
+	width: 75%;
+	margin-right: 25%;
+}
