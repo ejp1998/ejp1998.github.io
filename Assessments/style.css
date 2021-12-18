@@ -9,7 +9,7 @@ body {
 h1,h2,h3 {
 	line-height:1.2
 }
-.contents a:link, .contents a:visited {
+a:link, a:visited {
 	color: #30b5b8;
 }
 hr {
